@@ -10,7 +10,7 @@ Partitioned Models
 
 ::
 
-        DATABASE_CLUSTERS = {
+        DATABASES = {
             'mycluster': {
                 'NAME': 'mycluster',
                 'SHARDS': 1024,
